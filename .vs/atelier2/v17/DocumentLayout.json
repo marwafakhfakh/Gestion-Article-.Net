@@ -1,0 +1,135 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\asp.net\\atelier2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{82DFC327-0CCD-40B6-8423-5120E3382B81}|atelier2\\atelier2.csproj|d:\\asp.net\\atelier2\\atelier2\\models\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82DFC327-0CCD-40B6-8423-5120E3382B81}|atelier2\\atelier2.csproj|solutionrelative:atelier2\\models\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82DFC327-0CCD-40B6-8423-5120E3382B81}|atelier2\\atelier2.csproj|d:\\asp.net\\atelier2\\atelier2\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82DFC327-0CCD-40B6-8423-5120E3382B81}|atelier2\\atelier2.csproj|solutionrelative:atelier2\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82DFC327-0CCD-40B6-8423-5120E3382B81}|atelier2\\atelier2.csproj|d:\\asp.net\\atelier2\\atelier2\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82DFC327-0CCD-40B6-8423-5120E3382B81}|atelier2\\atelier2.csproj|solutionrelative:atelier2\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82DFC327-0CCD-40B6-8423-5120E3382B81}|atelier2\\atelier2.csproj|d:\\asp.net\\atelier2\\atelier2\\migrations\\20240916192111_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82DFC327-0CCD-40B6-8423-5120E3382B81}|atelier2\\atelier2.csproj|solutionrelative:atelier2\\migrations\\20240916192111_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82DFC327-0CCD-40B6-8423-5120E3382B81}|atelier2\\atelier2.csproj|d:\\asp.net\\atelier2\\atelier2\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82DFC327-0CCD-40B6-8423-5120E3382B81}|atelier2\\atelier2.csproj|solutionrelative:atelier2\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82DFC327-0CCD-40B6-8423-5120E3382B81}|atelier2\\atelier2.csproj|d:\\asp.net\\atelier2\\atelier2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82DFC327-0CCD-40B6-8423-5120E3382B81}|atelier2\\atelier2.csproj|solutionrelative:atelier2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82DFC327-0CCD-40B6-8423-5120E3382B81}|atelier2\\atelier2.csproj|d:\\asp.net\\atelier2\\atelier2\\migrations\\20240916194313_addphotopathtoproducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82DFC327-0CCD-40B6-8423-5120E3382B81}|atelier2\\atelier2.csproj|solutionrelative:atelier2\\migrations\\20240916194313_addphotopathtoproducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\asp.net\\atelier2\\atelier2\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "atelier2\\Controllers\\ProductController.cs",
+              "ToolTip": "D:\\asp.net\\atelier2\\atelier2\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "atelier2\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAgwFsAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T19:26:33.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\asp.net\\atelier2\\atelier2\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "atelier2\\Models\\Product.cs",
+              "ToolTip": "D:\\asp.net\\atelier2\\atelier2\\Models\\Product.cs",
+              "RelativeToolTip": "atelier2\\Models\\Product.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwAwAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T18:55:45.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "D:\\asp.net\\atelier2\\atelier2\\Models\\Repositories\\IRepository.cs",
+              "RelativeDocumentMoniker": "atelier2\\Models\\Repositories\\IRepository.cs",
+              "ToolTip": "D:\\asp.net\\atelier2\\atelier2\\Models\\Repositories\\IRepository.cs",
+              "RelativeToolTip": "atelier2\\Models\\Repositories\\IRepository.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAA1wAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T19:04:43.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20240916194313_AddPhotoPathToProducts.cs",
+              "DocumentMoniker": "D:\\asp.net\\atelier2\\atelier2\\Migrations\\20240916194313_AddPhotoPathToProducts.cs",
+              "RelativeDocumentMoniker": "atelier2\\Migrations\\20240916194313_AddPhotoPathToProducts.cs",
+              "ToolTip": "D:\\asp.net\\atelier2\\atelier2\\Migrations\\20240916194313_AddPhotoPathToProducts.cs",
+              "RelativeToolTip": "atelier2\\Migrations\\20240916194313_AddPhotoPathToProducts.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T19:43:13.641Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20240916192111_InitialCreate.cs",
+              "DocumentMoniker": "D:\\asp.net\\atelier2\\atelier2\\Migrations\\20240916192111_InitialCreate.cs",
+              "RelativeDocumentMoniker": "atelier2\\Migrations\\20240916192111_InitialCreate.cs",
+              "ToolTip": "D:\\asp.net\\atelier2\\atelier2\\Migrations\\20240916192111_InitialCreate.cs",
+              "RelativeToolTip": "atelier2\\Migrations\\20240916192111_InitialCreate.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T19:21:11.421Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\asp.net\\atelier2\\atelier2\\Program.cs",
+              "RelativeDocumentMoniker": "atelier2\\Program.cs",
+              "ToolTip": "D:\\asp.net\\atelier2\\atelier2\\Program.cs",
+              "RelativeToolTip": "atelier2\\Program.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAABAAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T19:01:17.304Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\asp.net\\atelier2\\atelier2\\Models\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "atelier2\\Models\\AppDbContext.cs",
+              "ToolTip": "D:\\asp.net\\atelier2\\atelier2\\Models\\AppDbContext.cs",
+              "RelativeToolTip": "atelier2\\Models\\AppDbContext.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAYwA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T18:57:38.461Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
